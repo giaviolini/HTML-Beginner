@@ -11,4 +11,4 @@ This is the first website I created for my Basic HTML/CSS class at HACC. It uses
 
 ```<hr>``` Displays a rule and is used to separate content on the webpage. It is a self-closing tag, meaning only one is used when writing the code.
 
-View the site at [https://giaviolini.github.io/HTML-Beginner/](url)
+[View the site here](https://giaviolini.github.io/HTML-Beginner/)
