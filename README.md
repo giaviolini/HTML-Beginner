@@ -1,5 +1,6 @@
 # HTML-Beginner
 A beginning HTML site.
+Assignment 1 of 10
 
 This is the first website I created for my Basic HTML/CSS class at HACC. It uses the following HTML tags:
 
